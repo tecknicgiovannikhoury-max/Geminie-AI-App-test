@@ -1,0 +1,6 @@
+{
+  "name": "Gemini AI",
+  "description": "Google Gemini style AI Assistant with animated liquid gradients, voice interaction, LIVE mode, document analysis, and offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
